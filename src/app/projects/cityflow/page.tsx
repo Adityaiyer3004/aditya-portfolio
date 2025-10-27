@@ -22,8 +22,8 @@ export default function CityFlowPage() {
         <section className="mt-10 space-y-3">
           <h2 className="text-white text-lg font-semibold">The problem</h2>
           <p>
-            When something breaks on a major London route — tunnel congestion,
-            collision, lane closures — operations, emergency response, and
+            When something breaks on a major London route; tunnel congestion,
+            collision, lane closures operations, emergency response, and
             comms all ask the same questions:
           </p>
           <ul className="list-disc pl-6 space-y-1">
